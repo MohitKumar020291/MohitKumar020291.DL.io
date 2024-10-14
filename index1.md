@@ -97,6 +97,7 @@ assert(arrayAtDim1.shape == array.shape[1:])
 ## Next Steps
 
 We'll implement a more complex node structure to better represent tensors and their operations.
+    1. Let's understand [pyObjects and pyCapsules](pyObjectsAndpyCapsules.md)
 
 ## Contributing
 
